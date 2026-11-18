@@ -1,0 +1,15 @@
+{
+ "project": "shopee-skill",
+ "version": "0.0.3-dev",
+ "path": "shopee-skill/dev/main/3d5da60bddcb",
+ "sha256": "3d5da60bddcbf85bbac698037fd0336c859cec804cc5885f6db6916d614176cf",
+ "files": {
+  "core.min.js": "3d5da60bddcbf85bbac698037fd0336c859cec804cc5885f6db6916d614176cf",
+  "login.min.js": "efef0445bc26f749f010bc98db018b7a8a5cb1a292569045ccd5f4dd052b5fc4",
+  "purchase.min.js": "4a0637b0467235e1a1b22035862aeed8e197a005100c522725b10124561aac72",
+  "confirm.ogg": "705c2a42350b8195d286018136e938952a3621d95afc8e7a23224c37180cbe13",
+  "scan.ogg": "8d1d71bebfbca847075274dfa553196bc03aa631c071bbf5454fd679e3fcf889"
+ },
+ "commit": "8bf058c47ad5ffb19b2a2d60686c6488d11ad0d3",
+ "published": 1794979503
+}
